@@ -16,8 +16,6 @@
 
 Étudiant ingénieur en Génie Logiciel (GLSID) à l'ENSET, spécialisé dans le développement backend Java/Spring Boot. Passionné par les architectures distribuées, la sécurité applicative et les bonnes pratiques DevOps.
 
-**Actuellement en recherche de stage ingénieur (4-6 mois) pour février 2026**
-
 ---
 
 ## 🔗 Contact
@@ -26,7 +24,7 @@
   <a href="mailto:otmane-etu@outlook.com">
     <img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="email" />
   </a>
-  <a href="https://linkedin.com/in/otmanesabiri" target="_blank">
+  <a href="www.linkedin.com/in/sabiri-otmane-95a7a5241" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
   </a>
   <a href="https://github.com/Otmanesabiri" target="_blank">
@@ -34,7 +32,6 @@
   </a>
 </p>
 
-**Téléphone :** +212 696759815  
 **Localisation :** Casablanca, Maroc
 
 ---
@@ -179,7 +176,6 @@ Système bancaire complet :
 ## 💡 Centres d'Intérêt
 
 - Architectures distribuées & Cloud Computing
-- Contributions Open Source
 - Veille technologique Backend
 - Sécurité applicative
 
