@@ -1,202 +1,197 @@
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=otmanesabiri&label=Profile%20views&color=0e75b6&style=flat" alt="otmanesabiri" />
-</p>
+<div align="center">
 
-<h1 align="center">Hi, I'm Otmane Sabiri 👋</h1>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:2F74C0&height=200&section=header&text=Otmane%20Sabiri&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Backend%20Engineer%20·%20Java%20/%20Spring%20Boot%20·%20Microservices&descAlignY=58&descSize=16" width="100%"/>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?duration=2000&color=2F74C0&center=true&vCenter=true&lines=Backend+Engineer;Java+%2F+Spring+Boot;REST+APIs+%26+Microservices;Cloud+%26+DevOps">
-</p>
+[![Profile Views](https://komarev.com/ghpvc/?username=otmanesabiri&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/Otmanesabiri)
+&nbsp;
+[![GitHub followers](https://img.shields.io/github/followers/Otmanesabiri?label=Followers&style=flat&color=0e75b6)](https://github.com/Otmanesabiri)
 
-<h3 align="center">Ingénieur Backend spécialisé Java/Spring Boot | Architecture Microservices | REST APIs</h3>
+<br/>
 
----
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2500&pause=800&color=2F74C0&center=true&vCenter=true&multiline=false&width=500&lines=Backend+Engineer+%7C+Java+%2B+Spring+Boot;Microservices+%26+Distributed+Systems;REST+APIs+%26+Cloud-Native+Architecture;Clean+Code+%7C+TDD+%7C+DevOps)](https://github.com/Otmanesabiri)
 
-## 🚀 À propos
-
-Étudiant ingénieur en Génie Logiciel (GLSID) à l'ENSET, spécialisé dans le développement backend Java/Spring Boot. Passionné par les architectures distribuées, la sécurité applicative et les bonnes pratiques DevOps.
+</div>
 
 ---
 
-## 🔗 Contact
+## 👤 À propos
 
-<p align="left">
-  <a href="mailto:otmane-etu@outlook.com">
-    <img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="email" />
-  </a>
-  <a href="www.linkedin.com/in/sabiri-otmane-95a7a5241" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
-  </a>
-  <a href="https://github.com/Otmanesabiri" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="github" />
-  </a>
-</p>
+Ingénieur logiciel en formation à l'**ENSET Mohammedia** (cycle ingénieur GLSID), spécialisé dans le développement backend **Java / Spring Boot**. Je conçois des APIs robustes, des architectures microservices scalables et des systèmes sécurisés. Orienté bonnes pratiques : tests, documentation, CI/CD.
 
-**Localisation :** Casablanca, Maroc
+📍 Casablanca, Maroc &nbsp;|&nbsp; 🎓 Disponible pour stage ingénieur (4–6 mois) · **Février 2026**
 
 ---
 
-## 💼 Expérience Professionnelle
+## 🔗 Me contacter
 
-### Stage Ingénieur Backend - REEWAYY
-**Juillet 2025 - Août 2025** | Plateforme médicale
+<div align="left">
 
-- Développement de **15+ endpoints REST** avec Spring Boot 3.x
-- Sécurisation complète via **Spring Security** et **JWT**
-- Configuration **PostgreSQL** conteneurisé avec **Docker** et migrations **Flyway**
-- **50+ tests unitaires** (JUnit/Mockito) avec 80% de couverture
-- Documentation API avec **Postman** et **Swagger**
-- Méthodologie **Agile/Scrum** avec **Git Flow**
+[![Email](https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:otmane-etu@outlook.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sabiri-otmane-95a7a5241)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Otmanesabiri)
 
-### Stage d'initiation - ANEF
-**Juillet 2024 - Août 2024** | Agence Nationale des Eaux et Forêts
+</div>
 
-- Application de gestion marketplace avec **Electron.js** et **Node.js**
-- Interfaces utilisateur avec **HTML5/CSS3** et **JavaScript**
+---
+
+## 💼 Expériences
+
+### 🏥 Stage Backend Engineer — REEWAYY *(Plateforme médicale)*
+**Juillet – Août 2025**
+
+> Développement backend complet d'une API médicale en contexte Agile.
+
+- ✅ **15+ endpoints REST** conçus avec Spring Boot 3.x (pagination, filtrage, validation)
+- 🔐 Sécurisation via **Spring Security + JWT**
+- 🐘 **PostgreSQL** conteneurisé avec **Docker**, migrations gérées par **Flyway**
+- 🧪 **50+ tests unitaires** (JUnit 5 / Mockito) — couverture **80%**
+- 📄 Documentation API : **Swagger / OpenAPI** + **Postman**
+- 🔄 Workflow **Git Flow** en équipe Scrum
+
+---
+
+### 🌲 Stage Initiation — ANEF *(Agence Nationale des Eaux et Forêts)*
+**Juillet – Août 2024**
+
+- 🖥️ Application desktop de gestion marketplace — **Electron.js + Node.js**
+- Interfaces en **HTML5 / CSS3 / JavaScript**
 
 ---
 
 ## 🎓 Formation
 
-**École Normale Supérieure d'Enseignement Technique (ENSET)**  
-*2023 - 2026* | Cycle Ingénieur - Génie Logiciel et Systèmes d'Information Distribués (GLSID)
-
-**Classes Préparatoires aux Grandes Écoles (CPGE)**  
-*2020 - 2022* | Sciences Physiques et Sciences de l'Ingénieur
+| Période | Établissement | Diplôme |
+|---------|--------------|---------|
+| 2023 – 2026 | **ENSET Mohammedia** | Cycle Ingénieur — Génie Logiciel & Systèmes d'Information Distribués (GLSID) |
+| 2020 – 2022 | **CPGE** | Sciences Physiques & Sciences de l'Ingénieur |
 
 ---
 
 ## 🛠️ Stack Technique
 
-### Backend & APIs
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+### Backend & Sécurité
+![Java](https://img.shields.io/badge/Java_21-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot_3.x-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 ![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=spring-security&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+![Spring Cloud](https://img.shields.io/badge/Spring_Cloud-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 
 ### Bases de données
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![H2](https://img.shields.io/badge/H2-0078D4?style=for-the-badge&logo=databricks&logoColor=white)
 
 ### Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![React](https://img.shields.io/badge/React_18/19-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular_15-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 
-### DevOps & Tools
+### DevOps & Outils
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
 
 ### Architecture & Patterns
-- **Microservices** (Spring Cloud Gateway, Eureka, Config Server)
-- **REST API** design et sécurisation
-- **Architecture en couches** (Controller/Service/Repository)
-- **Tests unitaires** (JUnit 5, Mockito)
+```
+Microservices          Spring Cloud Gateway · Eureka · Config Server
+REST API Design        Pagination · Filtrage · Validation · Versioning
+Sécurité               JWT · OAuth2 · Refresh Tokens · RBAC
+Tests                  JUnit 5 · Mockito · TDD
+Architecture           Layered (Controller / Service / Repository)
+Méthodes               Agile/Scrum · Git Flow · CI/CD (Jenkins notions)
+```
 
 ---
 
-## 📂 Projets Principaux
+## 📂 Projets
 
-### 🏢 Système de Gestion Boursière - Architecture Microservices
-**Spring Boot 3.2 · Spring Cloud · React 18 · PostgreSQL · Docker**
+### 🏢 Système de Gestion Boursière — Microservices
+`Spring Boot 3.2` `Spring Cloud` `React 18` `PostgreSQL` `Docker`
 
-Plateforme distribuée de gestion boursière avec architecture microservices complète :
-- **3 microservices** (Company, Stock, Gateway) avec communication REST
-- **40+ endpoints** avec pagination, filtrage et validation
-- **Authentification JWT centralisée** via Spring Cloud Gateway
-- **Service Discovery** avec Eureka
-- Base PostgreSQL avec **10K+ enregistrements**
-- Frontend React TypeScript avec **graphiques temps réel**
-- **75% de couverture** de tests unitaires (JUnit)
-- Déploiement **multi-conteneurs** avec Docker Compose
+Plateforme distribuée de gestion boursière :
+
+| Aspect | Détail |
+|--------|--------|
+| Architecture | 3 microservices (Company, Stock, Gateway) + Service Discovery Eureka |
+| API | 40+ endpoints REST avec pagination, filtrage, validation |
+| Sécurité | JWT centralisé via Spring Cloud Gateway |
+| Données | PostgreSQL · 10K+ enregistrements |
+| Frontend | React TypeScript · graphiques temps réel |
+| Tests | 75% de couverture (JUnit 5) |
+| Infra | Docker Compose multi-conteneurs |
 
 ---
 
-### 🏠 Syndic - Gestion Immobilière SaaS
-**Spring Boot 3.x · Spring Security · React 19 · TypeScript · PostgreSQL**
+### 🏠 Syndic — Gestion Immobilière SaaS
+`Spring Boot 3.x` `Spring Security` `React 19` `TypeScript` `PostgreSQL`
 
 Plateforme complète de gestion de copropriétés :
-- **Authentification multi-rôles** (Admin, Syndic, Copropriétaire)
-- Architecture REST sécurisée avec **refresh tokens**
-- Gestion de **8 entités métier** (Résidences, Copropriétaires, Charges, Paiements)
-- Interface responsive avec **Tailwind CSS**
-- Base PostgreSQL normalisée **3NF**
-- **60+ tests unitaires** backend
+
+| Aspect | Détail |
+|--------|--------|
+| Auth | Multi-rôles (Admin / Syndic / Copropriétaire) + refresh tokens |
+| Domaine | 8 entités métier (Résidences, Charges, Paiements…) |
+| Base de données | PostgreSQL normalisée 3NF |
+| Tests | 60+ tests unitaires backend |
+| UI | React + Tailwind CSS · interface responsive |
 
 ---
 
 ### 🏦 Application Bancaire Numérique
-**Spring Boot · Spring Security · Angular 15 · MySQL**
+`Spring Boot` `Spring Security` `Angular 15` `MySQL`
 
 Système bancaire complet :
-- Gestion de comptes **(Courant/Épargne)**, transactions et virements
-- **Architecture en couches** (Controller/Service/Repository)
-- Sécurisation complète avec **Spring Security** et **JWT**
-- API REST documentée
-- Frontend Angular avec **RxJS** pour la réactivité
 
----
-
-## 🎯 Compétences Clés
-
-**Backend :** Java 21, Spring Boot 3.x, Spring Security, Spring Data JPA, REST API, JWT/OAuth2
-
-**Bases de données :** PostgreSQL, MySQL, H2, Redis (notions)
-
-**Frontend :** React 18/19, TypeScript, JavaScript ES6+, Tailwind CSS
-
-**Tests & Qualité :** JUnit 5, Mockito, Postman, Swagger/OpenAPI
-
-**DevOps :** Docker, Docker Compose, Git/GitHub, Maven, Gradle
-
-**Architecture :** Microservices, REST, Spring Cloud (Gateway, Eureka, Config Server)
-
-**Méthodes :** Agile/Scrum, Git Flow, CI/CD (notions Jenkins)
+| Aspect | Détail |
+|--------|--------|
+| Fonctionnel | Comptes Courant/Épargne · transactions · virements |
+| Sécurité | Spring Security + JWT |
+| Frontend | Angular 15 + RxJS |
+| API | REST documentée |
 
 ---
 
 ## 📜 Certifications
 
-- **Career Essentials in Generative AI** - Microsoft
-- **Networking Essentials** - Cisco
+- 🎖️ **Career Essentials in Generative AI** — Microsoft
+- 🌐 **Networking Essentials** — Cisco
 
 ---
 
 ## 🌍 Langues
 
-- **Arabe :** Langue maternelle
-- **Français :** Courant (C1)
-- **Anglais :** Courant (B2)
-
----
-
-## 💡 Centres d'Intérêt
-
-- Architectures distribuées & Cloud Computing
-- Veille technologique Backend
-- Sécurité applicative
+| Langue | Niveau |
+|--------|--------|
+| 🇲🇦 Arabe | Langue maternelle |
+| 🇫🇷 Français | Courant — C1 |
+| 🇬🇧 Anglais | Courant — B2 |
 
 ---
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=otmanesabiri&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=otmanesabiri&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=otmanesabiri&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" height="165"/>
+&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=otmanesabiri&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" height="165"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=otmanesabiri&theme=tokyonight&hide_border=true&border_radius=10" height="165"/>
+
+</div>
 
 ---
 
-<p align="center">
-  <i>Disponible pour un stage ingénieur (4-6 mois) à partir de février 2026</i>
-</p>
+<div align="center">
 
-<p align="center">
-  <i>N'hésitez pas à me contacter pour discuter de vos projets backend !</i>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2F74C0,100:0e75b6&height=100&section=footer" width="100%"/>
+
+</div>
